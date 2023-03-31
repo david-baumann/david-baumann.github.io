@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://david-baumann.github.io/sitemap.xml
