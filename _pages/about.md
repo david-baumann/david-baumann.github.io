@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Please note that this website is still under construction!
+subtitle: Please note that this website is still under construction.
 
 profile:
   align: right
@@ -20,5 +20,4 @@ I am a PhD candidate in economics at the [World Trade Institute (WTI)](https://w
 Prior to joining the WTI, I have worked as a research assistant for a large longitudinal social structure study, as an assistant in energy and climate economics at an economics consultancy working for the Swiss government, and as an academic intern in the section for market regulation at the Swiss Federal Office of Energy.
 
 I hold an MSc in Applied Economic Analysis with special qualification in Trade and International Development from the University of Bern. I am  passionate about international trade, climate and energy economics, political economy, as well as data analytics and visualization.
-
 
