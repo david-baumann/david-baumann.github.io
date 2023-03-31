@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Please note that this website is still under construction!*
+subtitle: Please note that this website is still under construction!
 
 
 profile:
