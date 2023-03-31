@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: Please note that this website is still under construction!
 
-
 profile:
   align: right
   image: prof_pic.jpeg
